@@ -1,4 +1,4 @@
-# BymanOS 🚀
+# VanshOs 🚀
 
 A visually stunning, responsive portfolio website that mimics **macOS on desktop** and **iOS on mobile** — all in a single codebase. Built with Next.js 16, Tailwind CSS, and Framer Motion.
 
